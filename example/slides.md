@@ -1,4 +1,4 @@
-title: Example presentation theme: ../themes/visma4x3.css
+title: example theme: ../themes/visma4x3.css
 
 class: title
 
